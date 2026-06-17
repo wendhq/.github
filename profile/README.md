@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wendhq/.github/main/profile/wend-lockup-dark.png" alt="Wend" width="420">
+</div>
+
 # wendhq
 
 Building free, open-source software that puts accessibility first.
